@@ -1,0 +1,49 @@
+.bg-image-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    overflow: auto;
+    z-index: -1;
+}
+
+.bg-text {
+    align-self: center;
+    color: black;
+    margin: 20px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 1px #3c5c5e;
+}
+
+.bg-sub-text{
+    align-self: center;
+    color: rgb(212, 211, 211);
+    font-weight: 600;
+    margin: 20px;
+    margin-top: 0px;
+    font-size: 0.7rem;
+    text-shadow: 1px 1px 1px #3c5c5e;
+}
+
+.try-for-free{
+    border: 2px solid orange;
+    background-color: orange;
+    font-weight: 600;
+    align-self: center;
+    padding: 5px;
+    border-radius: 5%;
+}
+
+.request-a-demo{
+    color: white;
+    margin-top: 15px;
+    font-weight: 600;
+    border: 2px solid orange;
+    align-self: center;
+    padding: 5px;
+    border-radius: 5%;
+}

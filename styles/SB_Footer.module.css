@@ -1,0 +1,63 @@
+.footer-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(28, 159, 235);
+}
+
+.footer-details{
+    color: white;
+    margin: 10px 30px;
+}
+
+.related-links{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.portfolio-link{
+    margin: 20px;
+    margin-left: 0px;
+}
+
+.portfolio-link:hover{
+    color: black;
+}
+
+.academy-link{
+    margin: 20px;
+    margin-left: 0px;
+}
+
+.academy-link:hover{
+    color: black;
+}
+
+.events-link{
+    margin: 20px;
+    margin-left: 0px;
+}
+
+.events-link:hover{
+    color: black;
+}
+
+.gallery-link{
+    margin: 20px;
+    margin-left: 0px;
+}
+
+.gallery-link:hover{
+    color: black;
+}
+
+.social-media-links{
+    color: white;
+    margin: 10px 30px;
+}
+
+.links{
+    color: black;
+}

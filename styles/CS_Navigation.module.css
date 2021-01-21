@@ -1,0 +1,50 @@
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(250, 171, 81);
+}
+
+.logo-container{
+    color: white;
+    margin: 10px 30px;
+}
+
+.cs-logo{
+    border-radius: 50%;
+}
+
+.nav-links{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 40px 30px;
+}
+
+.nav-link-home{
+    color: black;
+    margin: 10px;
+}
+
+.nav-link-home:hover{
+    color: rgb(247, 74, 44);
+}
+
+.nav-link-re{
+    color: black;
+    margin: 10px;
+}
+
+.nav-link-re:hover{
+    color: rgb(247, 74, 44);
+}
+
+.nav-link-sb{
+    color: black;
+    margin: 10px;
+}
+
+.nav-link-sb:hover{
+    color: rgb(247, 74, 44);
+}

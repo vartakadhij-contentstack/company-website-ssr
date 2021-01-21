@@ -1,0 +1,26 @@
+.bg-image-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    overflow: auto;
+    z-index: -1;
+}
+
+.bg-text {
+    color: black;
+    margin: 100px;
+    margin-bottom: 0px;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 1px #3c5c5e;
+}
+
+.bg-sub-text{
+    color: rgb(238, 232, 232);
+    margin: 100px;
+    margin-top: 0px;
+    font-size: 0.7rem;
+    text-shadow: 1px 1px 1px #3c5c5e;
+}

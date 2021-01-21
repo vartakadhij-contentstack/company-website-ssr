@@ -1,0 +1,50 @@
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(24, 24, 24);
+}
+
+.logo-container{
+    color: white;
+    margin: 10px 30px;
+}
+
+.re-logo{
+    border-radius: 50%;
+}
+
+.nav-links{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 40px 30px;
+}
+
+.nav-link-home{
+    color: white;
+    margin: 10px;
+}
+
+.nav-link-home:hover{
+    color: rgb(2, 149, 235);
+}
+
+.nav-link-cs{
+    color: white;
+    margin: 10px;
+}
+
+.nav-link-cs:hover{
+    color:rgb(2, 149, 235);
+}
+
+.nav-link-sb{
+    color: white;
+    margin: 10px;
+}
+
+.nav-link-sb:hover{
+    color:rgb(2, 149, 235);
+}
